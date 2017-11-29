@@ -1,0 +1,78 @@
+body {
+	background: #e1e9ef;
+}
+.img {
+	width: 100%
+}
+.profileContainer {
+
+}
+.description {
+	text-align: center;
+	margin: 25px;
+}
+.profile {
+	display: flex;
+	justify-content: center;
+}
+.andy {
+	width: 300px;
+	margin: 50px;
+	padding: 25px;
+	background: #f1f7d4;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.andyPicture {
+	width: 250px;
+	margin-bottom: 25px;
+} 
+.andyTitle {
+	text-align: center;
+}
+.andyDescription {
+	text-align: center;
+}
+.alex {
+	width: 300px;
+	margin: 50px;
+	padding: 25px;
+	background: #f1f7d4;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.alexPicture {
+	width: 250px;
+	border-radius: 100%;
+	margin-bottom: 25px;
+}
+.alexTitle {
+	text-align: center;
+
+}
+.alexDescription {
+	text-align: center;
+}
+.techno {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background: #f9f8cc;
+}
+.footer {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 200px;
+	background: #f2dede;
+
+}
+.copyright {
+	font-size: 1.5em;
+}
+.logoHetic {
+	width: 100px;
+	height: 100px;
+}
